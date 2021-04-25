@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nicecock",
+  "name": "N1C4C0CK Mod",
+  "description": "Limesly's 1st Tutorial mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Limesly","AshShred"],
+  "credits": "Ya bois the big chungo squad!",
+  "logoFile": "assets/N1C4C0CKmod/textures/miners_delight_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
